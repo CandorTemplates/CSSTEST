@@ -1,3 +1,5 @@
+<style>
 a#site-title {
-    display: none;
+    display: none !important;
 }
+</style>
